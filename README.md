@@ -26,7 +26,7 @@ This is a front-end e-commerce website for audio-related products, built using H
 
 ## Preview 👀
 
-Here's a [link to the live website](https://audiophile-shop-for-blind-people.netlify.app/) where you can see the AudioPhile E-Commerce website in action!
+Here's a [link to the live website](http://127.0.0.1:5500/index.html) where you can see the AudioPhile E-Commerce website in action!
 
 ## Setup Instructions 🛠️
 
@@ -46,11 +46,6 @@ Here's a [link to the live website](https://audiophile-shop-for-blind-people.net
    - "checkout" - go to the checkout page
    - There are many command that same as text in website, or you can search all commands in speech.js file
 
-## Screenshots 📷
-
-![Home Page](/screenshots/home.png)
-![Product Detail Page](/screenshots/product-detail.png)
-![Shopping Cart Page](/screenshots/cart.png)
 
 ## Contributing 🤝
 
