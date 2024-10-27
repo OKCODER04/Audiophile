@@ -51,9 +51,7 @@ Here's a [link to the live website](http://127.0.0.1:5500/index.html) where you 
 
 Contributions are welcome! Please feel free to submit a pull request or create an issue if you find a bug or have a suggestion.
 
-## License 📝
 
-This project is licensed under the [MIT License](LICENSE).
    
 
 
